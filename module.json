@@ -1,0 +1,74 @@
+{   
+   "name": "MotherShipCompendium",
+   "title": "MotherShip Compendium",   
+   "description": "Personal Mothership Compendium module.",
+   "author": "totallybanjaxed",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.5",
+   "compatibleCoreVersion": "3.0.0",
+   "packs": [
+    {
+        "name": "weapons",
+        "label": "Weapons",
+        "module": "MotherShipCompendium",
+        "path": "packs/weapons.db",
+        "entity": "Item"
+    },
+    {
+      "name": "armor",
+      "label": "Armor",
+      "module": "MotherShipCompendium",
+      "path": "packs/armor.db",
+      "entity": "Item"
+    },
+    {
+      "name": "gear",
+      "label": "Gear",
+      "module": "MotherShipCompendium",
+      "path": "packs/gear.db",
+      "entity": "Item"
+    },
+    {
+      "name": "skills-trained",
+      "label": "Skills - Trained",
+      "module": "MotherShipCompendium",
+      "path": "packs/skills-trained.db",
+      "entity": "Item"
+    },
+    {
+      "name": "skills-expert",
+      "label": "Skills - Expert",
+      "module": "MotherShipCompendium",
+      "path": "packs/skills-expert.db",
+      "entity": "Item"
+    },
+    {
+      "name": "skills-master",
+      "label": "Skills - Master",
+      "module": "MotherShipCompendium",
+      "path": "packs/skills-master.db",
+      "entity": "Item"
+    },
+    {
+      "name": "ship-modules",
+      "label": "Ship - Modules",
+      "module": "MotherShipCompendium",
+      "path": "packs/ship-modules.db",
+      "entity": "Item"
+    },
+    {
+      "name": "ship-weapons",
+      "label": "Ship - Weapons",
+      "module": "MotherShipCompendium",
+      "path": "packs/ship-weapons.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tables",
+      "label": "Tables",
+      "module": "MotherShipCompendium",
+      "path": "packs/tables.db",
+      "entity": "RollTable"
+    }
+  ]
+ }
