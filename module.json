@@ -3,16 +3,16 @@
    "title": "MotherShip Compendium",
    "description": "Personal Mothership Compendium module.",
    "author": "totallybanjaxed",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
     {
-        "name": "weapons",
-        "label": "Weapons",
-        "module": "MotherShipCompendium",
-        "path": "packs/weapons.db",
-        "entity": "Item"
+      "name": "weapons",
+      "label": "Weapons",
+      "module": "MotherShipCompendium",
+      "path": "packs/weapons.db",
+      "entity": "Item"
     },
     {
       "name": "armor",
@@ -83,6 +83,13 @@
       "module": "MotherShipCompendium",
       "path": "packs/macros.db",
       "entity": "Macro"
+    },
+    {
+      "name": "jounals",
+      "label": "JournalEntry",
+      "module": "MotherShipCompendium",
+      "path": "packs/journal.db",
+      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp",
