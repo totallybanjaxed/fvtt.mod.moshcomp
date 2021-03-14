@@ -64,6 +64,13 @@
       "entity": "Item"
     },
     {
+      "name": "actors",
+      "label": "Actors",
+      "module": "MotherShipCompendium",
+      "path": "packs/actors.db",
+      "entity": "Actor"
+    },
+    {
       "name": "tables",
       "label": "Tables",
       "module": "MotherShipCompendium",
