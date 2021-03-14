@@ -3,7 +3,7 @@
    "title": "MotherShip Compendium",
    "description": "Personal Mothership Compendium module.",
    "author": "totallybanjaxed",
-   "version": "1.0.5",
+   "version": "1.0.6",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
@@ -76,6 +76,13 @@
       "module": "MotherShipCompendium",
       "path": "packs/tables.db",
       "entity": "RollTable"
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "module": "MotherShipCompendium",
+      "path": "packs/macros.db",
+      "entity": "Macro"
     }
   ],
   "url": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp",
