@@ -3,7 +3,7 @@
    "title": "MotherShip Compendium",
    "description": "Personal Mothership Compendium module.",
    "author": "totallybanjaxed",
-   "version": "1.0.9",
+   "version": "1.1.0",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
@@ -85,11 +85,18 @@
       "entity": "Macro"
     },
     {
-      "name": "jounals",
+      "name": "journals",
       "label": "JournalEntry",
       "module": "MotherShipCompendium",
       "path": "packs/journal.db",
       "entity": "JournalEntry"
+    },
+    {
+      "name": "loadouts",
+      "label": "Starting Loadouts",
+      "module": "MotherShipCompendium",
+      "path": "packs/loadouts.db",
+      "entity": "Item"
     }
   ],
   "url": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp",
