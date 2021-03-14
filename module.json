@@ -70,5 +70,8 @@
       "path": "packs/tables.db",
       "entity": "RollTable"
     }
-  ]
- }
+  ],
+  "url": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp",
+  "download": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp/archive/main.zip",
+  "manifest": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp/main/module.json"
+}
