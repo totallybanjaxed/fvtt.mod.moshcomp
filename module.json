@@ -3,7 +3,7 @@
    "title": "MotherShip Compendium",
    "description": "Personal Mothership Compendium module",
    "author": "totallybanjaxed",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
@@ -65,7 +65,7 @@
     },
     {
       "name": "actors",
-      "label": "Actor",
+      "label": "Actors",
       "module": "MotherShipCompendium",
       "path": "packs/actors.db",
       "entity": "Actor"
@@ -86,7 +86,7 @@
     },
     {
       "name": "journals",
-      "label": "JournalEntry",
+      "label": "Journals",
       "module": "MotherShipCompendium",
       "path": "packs/journal.db",
       "entity": "JournalEntry"
