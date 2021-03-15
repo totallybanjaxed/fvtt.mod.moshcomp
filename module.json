@@ -85,7 +85,7 @@
       "entity": "Macro"
     },
     {
-      "name": "jounals",
+      "name": "journals",
       "label": "JournalEntry",
       "module": "MotherShipCompendium",
       "path": "packs/journal.db",
