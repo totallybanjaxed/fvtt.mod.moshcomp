@@ -3,7 +3,8 @@
     "title": "MotherShip Compendium",
     "description": "Personal Mothership Compendium module",
     "author": "totallybanjaxed",
-    "version": "1.2.2",
+    "socket": true,
+    "version": "1.2.3",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.7.9",
     "packs": [{
