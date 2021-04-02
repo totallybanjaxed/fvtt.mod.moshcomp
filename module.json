@@ -93,5 +93,6 @@
     ],
     "url": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp",
     "download": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp/archive/main.zip",
-    "manifest": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/totallybanjaxed/fvtt.mod.moshcomp/main/module.json"
+        // "manifest": "https://github.com/totallybanjaxed/fvtt.mod.moshcomp/main/module.json"
 }
